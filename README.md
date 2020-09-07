@@ -1,3 +1,5 @@
 # kaonashigod.github.io
 Coursera module 2 solution
-You can see this site [Click HERE](https://kaonashigod.github.io/module2-solution/index.html)
+You can see
+Module2 [Click HERE](https://kaonashigod.github.io/module2-solution/index.html)
+Module3 [Click HERE](https://kaonashigod.github.io/module3-solution/index.html)
